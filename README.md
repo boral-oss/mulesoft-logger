@@ -21,11 +21,11 @@ For released connectors you can download them from the update site in Boral.This
 Open Anypoint Studio, go to Help → Install New Software and select Anypoint Connectors Update Site where you’ll find all avaliable connectors.
 
 # Usage
-For information about usage our documentation at http://github.com/mulesoft/boral-logger.
+For information about usage our documentation at https://github.com/boral-oss/mulesoft-logger/wiki.
 
 # Reporting Issues
 
-We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link http://github.com/mulesoft/boral-logger/issues.
+We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link https://github.com/boral-oss/mulesoft-logger/issues.
 
 # Note
 We are working towards constant improvement of artifacts and documentations . Kindly raise your concerns under issues section.
