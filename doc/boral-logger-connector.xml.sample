@@ -1,0 +1,6 @@
+<!-- BEGIN_INCLUDE(boral-logger:greet) -->
+    <boral-logger:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(boral-logger:greet) -->
+<!-- BEGIN_INCLUDE(boral-logger:add-entity) -->
+    <boral-logger:add-entity config-ref="" key="id1"/>
+<!-- END_INCLUDE(boral-logger:add-entity) -->
